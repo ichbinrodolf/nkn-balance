@@ -1,0 +1,14 @@
+{
+  "name": "nkn-balance",
+  "version": "1.0.0",
+  "description": "Retrieves nkn wallet balance",
+  "author": "Florian Ichbinrodolf <florian.ichbinrodolf@gmail.com>",
+  "main": "balance.js",
+  "scripts": {
+    "start": "node balance.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "nkn-sdk": "^1.2.0"
+  }
+}
